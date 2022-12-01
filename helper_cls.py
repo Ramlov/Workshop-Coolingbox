@@ -1,4 +1,12 @@
 '''
+@author Ramlov
+      ___            _         
+     | _ \__ _ _ __ | |_____ __
+     |   / _` | '  \| / _ \ V /
+     |_|_\__,_|_|_|_|_\___/\_/ 
+
+
+
 Fil der indeholder alle helper_cls
 
 '''
